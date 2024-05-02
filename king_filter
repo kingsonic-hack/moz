@@ -1,0 +1,26 @@
+from os import system
+from colorama import Fore
+from time import sleep
+
+system("clear")
+
+print("   king filter   ")
+print("")
+
+code = input(Fore.BLUE+f"""
+(1) filtering acount 
+(2) super filtering acount
+(3) sex link
+select code >>>""")
+print("")
+
+print(Fore.GREEN+"loding...")
+
+if code == "1":
+	print("1.2.4.5.9////f////.2.4.5.1.4.0.8.4.1.4.5.7.3.6.1.4.6.7.8.8.")
+	
+	if code == "2":
+		print("1.1.1.1.1.1.1.2.3/////f///////f//.3.4.5.3.1.6.8.7.3.1.1.8.8.9.1.1.1.1.6.6..6.6.4.2.1.3.4.6.7.7.7.8.8.2.5.6.8.6")
+		
+		if code == "3":
+			coming soon...
